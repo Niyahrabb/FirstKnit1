@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Niyah Rabb"
 output: 
   html_document:
     number_sections: true
@@ -18,7 +18,7 @@ Where did you attend High School, and did you graduate? Compare english class to
   
 ### my answer     
   
-
+I graduated from palmdale highschool class of 202. I was always way better in math than english but ironically I hope to be a writer in my future. 
      
 
 
@@ -27,14 +27,14 @@ Where did you attend High School, and did you graduate? Compare english class to
 
 ### my answer   
   
-   
+   I have a mac air I believe but honestly im not too sure. Im not the nost tech savey I will admit but if i sit down and focus I can definatly figure it out. I have perfect internet access at home though. 
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
   
-   
+   I usually go by my first name which is "Niyah", but i dont mind being called "niy" either. 
  
 
 
@@ -44,7 +44,7 @@ What name do you prefer to be called by your classmates and instructor, if your 
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
-  
+  My main goal in life is to be a screenwriter so after I get my AA from here I hope to plan to USC to join their Film program.Im honestly not too sure which degree I would need to be a screenwriter specifically so im kind of just following the film path
    
  
 
@@ -56,8 +56,8 @@ Have you ever gone to foreign countries, if so which ones, if not Where might yo
 
 ### my answer     
   
-   
-  
+   I haven't been to any foreign countries but if i could go the first place i would want to go is probably Ghana. Honestly Africa as a whole id wanna see the entire country. I also would love to visit Greece and Italy to visit the Sistine Chapel and try their spaghetti.
+  I havent been to the military either but if i could go I would probably join the army only because I dont want to be in the water so i cant do the navy, and I dont wanna be in the air so I cant do the airforce.
 
 
 
@@ -69,7 +69,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
 
 ### my answer     
   
-   
+   If im going to be honest im only taking statistics because i was always good at math and so statistics was the next math to take out of highschool. I believe the highest grade Id need to work in kahoots with my future would be a "C" at the lowest but Im only used to seeing A's on my transcripts so im pushing for an "A" lol.
  
 
 
